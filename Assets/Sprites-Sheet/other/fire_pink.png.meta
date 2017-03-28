@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: d2e85311f758beb4fb4b70b20c83ea0d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_pink_0
+    21300002: fire_pink_1
+    21300004: fire_pink_2
+    21300006: fire_pink_3
+    21300008: fire_pink_4
+    21300010: fire_pink_5
+    21300012: fire_pink_6
+    21300014: fire_pink_7
+    21300016: fire_pink_8
+    21300018: fire_pink_9
+    21300020: fire_pink_10
+    21300022: fire_pink_11
+    21300024: fire_pink_12
+    21300026: fire_pink_13
+    21300028: fire_pink_14
+    21300030: fire_pink_15
+    21300032: fire_pink_16
+    21300034: fire_pink_17
+    21300036: fire_pink_18
+    21300038: fire_pink_19
+    21300040: fire_pink_20
+    21300042: fire_pink_21
+    21300044: fire_pink_22
+    21300046: fire_pink_23
+    21300048: fire_pink_24
+    21300050: fire_pink_25
+    21300052: fire_pink_26
+    21300054: fire_pink_27
+    21300056: fire_pink_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_pink_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 214
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 140
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 137
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 110
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 115
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 71
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 71
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 79
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_pink_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

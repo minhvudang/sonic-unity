@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 31033618f1bac17438731fef9d233dcd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_blue_0
+    21300002: fire_blue_1
+    21300004: fire_blue_2
+    21300006: fire_blue_3
+    21300008: fire_blue_4
+    21300010: fire_blue_5
+    21300012: fire_blue_6
+    21300014: fire_blue_7
+    21300016: fire_blue_8
+    21300018: fire_blue_9
+    21300020: fire_blue_10
+    21300022: fire_blue_11
+    21300024: fire_blue_12
+    21300026: fire_blue_13
+    21300028: fire_blue_14
+    21300030: fire_blue_15
+    21300032: fire_blue_16
+    21300034: fire_blue_17
+    21300036: fire_blue_18
+    21300038: fire_blue_19
+    21300040: fire_blue_20
+    21300042: fire_blue_21
+    21300044: fire_blue_22
+    21300046: fire_blue_23
+    21300048: fire_blue_24
+    21300050: fire_blue_25
+    21300052: fire_blue_26
+    21300054: fire_blue_27
+    21300056: fire_blue_28
+    21300058: fire_blue_29
+    21300060: fire_blue_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_blue_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 214
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 211
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 140
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10
+        width: 52
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 107
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 73
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 89
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 71
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 80
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire_blue_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

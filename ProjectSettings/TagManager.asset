@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gold
+  - Land
+  - Monster
+  - land
+  - c4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3586910611
+    locked: 0
+  - name: Forcebackground
+    uniqueID: 4279712385
+    locked: 0
+  - name: Scene-Med
+    uniqueID: 4240262745
+    locked: 0
+  - name: player
+    uniqueID: 1373731349
+    locked: 0
+  - name: Gold
+    uniqueID: 3613665617
+    locked: 0
+  - name: Monster
+    uniqueID: 1561072091
+    locked: 0
+  - name: Scene-Up
+    uniqueID: 2616746419
+    locked: 0
+  - name: health
+    uniqueID: 1825233563
+    locked: 0
+  - name: score
+    uniqueID: 1503414321
+    locked: 0
+  - name: panel
+    uniqueID: 1782458003
+    locked: 0

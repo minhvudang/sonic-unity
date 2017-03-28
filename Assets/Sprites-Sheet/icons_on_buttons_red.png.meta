@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: d43de9cbac3c3044ebe1374765cf1dc4
+timeCreated: 1459654385
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icons_on_buttons_red_0
+    21300002: icons_on_buttons_red_1
+    21300004: icons_on_buttons_red_2
+    21300006: icons_on_buttons_red_3
+    21300008: icons_on_buttons_red_4
+    21300010: icons_on_buttons_red_5
+    21300012: icons_on_buttons_red_6
+    21300014: icons_on_buttons_red_7
+    21300016: icons_on_buttons_red_8
+    21300018: icons_on_buttons_red_9
+    21300020: icons_on_buttons_red_10
+    21300022: icons_on_buttons_red_11
+    21300024: icons_on_buttons_red_12
+    21300026: icons_on_buttons_red_13
+    21300028: icons_on_buttons_red_14
+    21300030: icons_on_buttons_red_15
+    21300032: icons_on_buttons_red_16
+    21300034: icons_on_buttons_red_17
+    21300036: icons_on_buttons_red_18
+    21300038: icons_on_buttons_red_19
+    21300040: icons_on_buttons_red_20
+    21300042: icons_on_buttons_red_21
+    21300044: icons_on_buttons_red_22
+    21300046: icons_on_buttons_red_23
+    21300048: icons_on_buttons_red_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icons_on_buttons_red_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 778
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 41.5}
+        - {x: -42.5, y: 9.5}
+        - {x: -42.5, y: -9.5}
+        - {x: -5.5, y: -41.5}
+        - {x: 42.5, y: -41.5}
+        - {x: 42.5, y: 41.5}
+    - name: icons_on_buttons_red_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 769
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 49.5}
+        - {x: -18.5, y: 49.5}
+        - {x: -33.5, y: 43.5}
+        - {x: -49.5, y: 31.5}
+        - {x: -49.5, y: -40.5}
+        - {x: -39.5, y: -49.5}
+        - {x: 31.5, y: -49.5}
+        - {x: 49.5, y: -43.5}
+        - {x: 49.5, y: 26.5}
+        - {x: 34.5, y: 40.5}
+    - name: icons_on_buttons_red_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 764
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 53.5}
+        - {x: -37, y: 45.5}
+        - {x: -37, y: -30.5}
+        - {x: -24, y: -53.5}
+        - {x: 11, y: -53.5}
+        - {x: 21, y: -47.5}
+        - {x: 37, y: -12.5}
+        - {x: 37, y: 44.5}
+        - {x: 35, y: 53.5}
+    - name: icons_on_buttons_red_3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 770
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 49.5}
+        - {x: -58.5, y: 18.5}
+        - {x: -58.5, y: -12.5}
+        - {x: -41.5, y: -49.5}
+        - {x: 45.5, y: -49.5}
+        - {x: 58.5, y: -14.5}
+        - {x: 58.5, y: 17.5}
+        - {x: 36.5, y: 49.5}
+    - name: icons_on_buttons_red_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 782
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 38.5}
+        - {x: -35, y: 35.5}
+        - {x: -35, y: -38.5}
+        - {x: 35, y: -38.5}
+        - {x: 35, y: 38.5}
+    - name: icons_on_buttons_red_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 598
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 41.5}
+        - {x: -42.5, y: -41.5}
+        - {x: 5.5, y: -41.5}
+        - {x: 42.5, y: -30.5}
+        - {x: 42.5, y: 19.5}
+        - {x: 10.5, y: 41.5}
+    - name: icons_on_buttons_red_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 596
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 41.5}
+        - {x: -41.5, y: -41.5}
+        - {x: 39.5, y: -41.5}
+        - {x: 41.5, y: -38.5}
+        - {x: 41.5, y: 38.5}
+        - {x: 37.5, y: 41.5}
+    - name: icons_on_buttons_red_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 588
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -28}
+        - {x: 36.5, y: -25}
+        - {x: 55.5, y: 0}
+        - {x: 55.5, y: 21}
+        - {x: 21.5, y: 51}
+        - {x: -37.5, y: 51}
+        - {x: -55.5, y: 35}
+        - {x: -55.5, y: -29}
+        - {x: -46.5, y: -51}
+        - {x: 10.5, y: -51}
+        - {x: 13.5, y: -48}
+        - {x: 12.5, y: -24}
+        - {x: 1.5, y: -19}
+    - name: icons_on_buttons_red_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 597
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 40}
+        - {x: -48, y: 38}
+        - {x: -48, y: -36}
+        - {x: -44, y: -40}
+        - {x: 44, y: -40}
+        - {x: 48, y: -35}
+        - {x: 48, y: 40}
+    - name: icons_on_buttons_red_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 590
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 48}
+        - {x: -42, y: 20}
+        - {x: -42, y: -40}
+        - {x: -32, y: -48}
+        - {x: 28, y: -48}
+        - {x: 42, y: -44}
+        - {x: 42, y: 15}
+        - {x: 25, y: 48}
+    - name: icons_on_buttons_red_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 414
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 46.5}
+        - {x: -32.5, y: 46.5}
+        - {x: -32.5, y: -46.5}
+        - {x: -5.5, y: -46.5}
+        - {x: 32.5, y: -16.5}
+        - {x: 32.5, y: 11.5}
+        - {x: 28.5, y: 21.5}
+    - name: icons_on_buttons_red_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 414
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 46.5}
+        - {x: -32.5, y: 11.5}
+        - {x: -32.5, y: -12.5}
+        - {x: 5.5, y: -46.5}
+        - {x: 32.5, y: -46.5}
+        - {x: 32.5, y: 46.5}
+    - name: icons_on_buttons_red_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 408
+        width: 41
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 50.5}
+        - {x: -20.5, y: -46.5}
+        - {x: -16.5, y: -50.5}
+        - {x: 16.5, y: -50.5}
+        - {x: 20.5, y: -44.5}
+        - {x: 20.5, y: 50.5}
+    - name: icons_on_buttons_red_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 409
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 49.5}
+        - {x: -27.5, y: 22.5}
+        - {x: -27.5, y: -15.5}
+        - {x: -21.5, y: -48.5}
+        - {x: -19.5, y: -49.5}
+        - {x: 15.5, y: -49.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 27.5, y: 49.5}
+    - name: icons_on_buttons_red_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 411
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 46}
+        - {x: -35, y: -36}
+        - {x: -34, y: -39}
+        - {x: -18, y: -46}
+        - {x: 30, y: -46}
+        - {x: 35, y: -44}
+        - {x: 35, y: 28}
+        - {x: 12, y: 46}
+    - name: icons_on_buttons_red_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32.5}
+        - {x: -46.5, y: 5.5}
+        - {x: -46.5, y: -30.5}
+        - {x: -44.5, y: -32.5}
+        - {x: 46.5, y: -32.5}
+        - {x: 46.5, y: -4.5}
+        - {x: 25.5, y: 32.5}
+    - name: icons_on_buttons_red_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 244
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 32.5}
+        - {x: -46.5, y: -7.5}
+        - {x: -12.5, y: -32.5}
+        - {x: 22.5, y: -32.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 46.5, y: 11.5}
+        - {x: 46.5, y: 32.5}
+    - name: icons_on_buttons_red_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 230
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 47.5}
+        - {x: -50, y: -16.5}
+        - {x: -26, y: -47.5}
+        - {x: 4, y: -47.5}
+        - {x: 12, y: -45.5}
+        - {x: 50, y: 15.5}
+        - {x: 50, y: 47.5}
+    - name: icons_on_buttons_red_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 235
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 45.5}
+        - {x: -27, y: 45.5}
+        - {x: -45, y: 38.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -21.5}
+        - {x: -6, y: -45.5}
+        - {x: 46, y: -45.5}
+        - {x: 46, y: -20.5}
+        - {x: 27, y: 33.5}
+    - name: icons_on_buttons_red_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 235
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 46.5}
+        - {x: -48.5, y: 31.5}
+        - {x: -48.5, y: 1.5}
+        - {x: -36.5, y: -10.5}
+        - {x: -36.5, y: -42.5}
+        - {x: -34.5, y: -46.5}
+        - {x: 40.5, y: -46.5}
+        - {x: 48.5, y: -31.5}
+        - {x: 48.5, y: 22.5}
+        - {x: 28.5, y: 46.5}
+    - name: icons_on_buttons_red_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 49}
+        - {x: -16, y: 49}
+        - {x: -49, y: 25}
+        - {x: -49, y: -17}
+        - {x: -31, y: -49}
+        - {x: 22, y: -49}
+        - {x: 47, y: -19}
+        - {x: 49, y: -14}
+        - {x: 49, y: 17}
+    - name: icons_on_buttons_red_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 82
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 16}
+        - {x: -35, y: 12}
+        - {x: -35, y: -12}
+        - {x: -32, y: -16}
+        - {x: 35, y: -16}
+        - {x: 35, y: 16}
+    - name: icons_on_buttons_red_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 45
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 52.5}
+        - {x: -32.5, y: 37.5}
+        - {x: -32.5, y: -52.5}
+        - {x: 32.5, y: -52.5}
+        - {x: 32.5, y: 36.5}
+        - {x: 21.5, y: 52.5}
+    - name: icons_on_buttons_red_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 48
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 52}
+        - {x: -35, y: 52}
+        - {x: -39, y: 47}
+        - {x: -39, y: -47}
+        - {x: -34, y: -52}
+        - {x: 36, y: -52}
+        - {x: 39, y: -28}
+        - {x: 39, y: 40}
+    - name: icons_on_buttons_red_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 55
+        width: 110
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 45.5}
+        - {x: -55, y: 25.5}
+        - {x: -55, y: -45.5}
+        - {x: 50, y: -45.5}
+        - {x: 55, y: -44.5}
+        - {x: 55, y: 44.5}
+        - {x: 51, y: 45.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
